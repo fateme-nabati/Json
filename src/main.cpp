@@ -2,7 +2,8 @@
 using namespace std;
 int main()//The program starts from the main function
 {
-    for (;;)
+     cout << "welcome to my program!!!" << endl;
+     for (;;)
     {
         string MainCommand, OtherCommands;
         string InputCommand;
